@@ -1,7 +1,10 @@
 # Scripts
 fprinciple_brief.ipynb: A simple code to verify frequency principle for 1d functions.
+
 fprinciple.ipynb: A complete code to verify frequency principle for 1d functions.
+
 f-principle_nd.ipynb: A code to verify frequency principle for n-dimensonal functions.
+
 example.ipynb: Answers to tasks in 1d scripts.
 
 # Related papers
